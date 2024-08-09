@@ -1,6 +1,6 @@
 {
     "name": "Publish Immutable Action Version",
     "description": "Triggered by a new release of your action, packages up the repository contents and uploads them to the GitHub Container Registry.",
-    "iconName": "rails",
-    "categories": ["Immutable Actions"]
+    "iconName": "octicon workflow",
+    "categories": ["Continuous Integration"]
 }
